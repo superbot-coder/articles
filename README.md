@@ -4,4 +4,4 @@
 ### [Настраиваемые управляемые записи для интеллектуальных указателей](/source/Custom_Managed_Records_for_Smart_Pointers.md)
 
 # КНИГИ
-["More Coding in Delphi" (Nick Hodges 2015)]()
+### ["More Coding in Delphi" (Nick Hodges 2015)](/source/More%20Coding%20in%20Delphi%20(Nick%20Hodges%202015))
